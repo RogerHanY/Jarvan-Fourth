@@ -1,0 +1,70 @@
+body{
+    background-image:url("http://sjbz.fd.zol-img.com.cn/t_s320x510c/g5/M00/00/01/ChMkJlfJUb6IR4NxAAA1to-DYuAAAU9fgPcWCcAADXO083.jpg");
+}
+h1{
+    text-align:center;
+    color:yellow;
+    background-color:black;
+    font-size:50px;
+    text-shadow: 2px 5px blue;
+}
+.slogan{
+    text-align:center;
+    font-size:36px;
+}
+.img{
+    display:flex;
+    justify-content:center;
+}
+img:hover{
+    padding:5px;
+    background-color:blue;
+}
+.left{
+    width:50%;
+    border:double red 5px;
+    margin:20px;
+    padding:1px;
+    border-radius: 100%;
+}
+.right{
+    width:50%;
+    border:double red 5px;
+    margin:20px;
+    padding:1px;
+    border-radius: 100%;
+}
+img{
+    width:600px;
+    height:400px;
+}
+.button{
+    display:flex;
+    justify-content:center;
+}
+button{
+    font-size:36px;
+    font-family: 'Pacifico', cursive;
+    color:red;
+    background-color:blue;
+    border-radius: 50%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+button:hover {
+  padding: 5px;
+  background-color:black;
+}
+h2{
+    text-align:center;
+    color:yellow;
+    background-color:black;
+    font-size:40px;
+    text-shadow: 2px 5px blue;
+}
+p{
+    font-size:30px;
+    color:red;
+    background-color:black;
+    font-family: 'Indie Flower', cursive;
+    text-shadow: 2px 2px blue;
+}
